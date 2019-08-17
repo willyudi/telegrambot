@@ -1,3 +1,2 @@
-Json
 Flask
 PyTelegramBotAPI

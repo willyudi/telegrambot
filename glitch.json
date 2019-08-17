@@ -1,4 +1,3 @@
-// glitch.json
 {
     "install": "pip3 install --user -r requirements.txt",
     "start": "PYTHONUNBUFFERED=true python3 server.py",
@@ -18,6 +17,6 @@
           "^start\\.sh"
         ]
       },
-//      "throttle": 5000
+      "throttle": 5000
     }
   }
