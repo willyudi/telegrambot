@@ -18,6 +18,6 @@
           "^start\\.sh"
         ]
       },
-      "throttle": 5000
+//      "throttle": 5000
     }
   }
